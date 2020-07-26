@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kesgupta\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kesgupta\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_SnakesAndLadders.765980455.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kesgupta\source\repos\SnakesAndLadders" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SnakesAndLadders" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="enum" t="Include" />
+        <e p="models" t="Include">
+          <e p="Board.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="SnakesAndLadders.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="service" t="Include">
+          <e p="BoardServiceImpl.cs" t="Include" />
+          <e p="GameManagerService.cs" t="Include" />
+          <e p="GameService.cs" t="Include" />
+          <e p="IBoardService.cs" t="Include" />
+          <e p="IGameManagerService.cs" t="Include" />
+          <e p="IGameService.cs" t="Include" />
+        </e>
+        <e p="SnakesAndLadders.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SnakesAndLadders.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
